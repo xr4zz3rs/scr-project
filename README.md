@@ -1,2 +1,1 @@
-# jumpscare-project
-A simple HTML Jumpscare.
+A simple HTML.
